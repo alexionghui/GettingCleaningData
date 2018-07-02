@@ -69,4 +69,4 @@ tidyData<-activityMeanAndStd %>%
       summarize_all(funs(mean))
 
 #step 8 save the tidy data set
-write.table(tidyData,"tidyData.txt",sep ="   ")
+write.table(tidyData,"tidyData.txt",row.names=TRUE,sep ="   ")
