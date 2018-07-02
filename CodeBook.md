@@ -1,6 +1,6 @@
-###Getting and Cleaning Data Project CodeBook
+# Getting and Cleaning Data Project CodeBook
 
-###Raw Data
+## Raw Data
 
 
 The data used in this project can be found from the following.
@@ -68,7 +68,7 @@ tBodyGyroJerkMean
  1. The units for acceleration signal from the smartphone accelerometer is in standard gravity 'g'.
  2. The unit for angular velocity vector is radians/second. The angular velocity vector is measured by the gyroscope for each window sample.
 
-##Data manipulation
+## Data manipulation
 
 The subject ID, activity and measurments are merged into for both train and test data sets. And the two data sets were combined into a new data set "==mergedData==".
 Only the measurements on the mean and standard deviation for each measurement are extracted to "activityMeanAndStd".
