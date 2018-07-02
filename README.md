@@ -1,11 +1,11 @@
-#Coursera Course project
+# Coursera Course project
 
-##**Getting and Cleaning Data**
+## **Getting and Cleaning Data**
 
 Hui Xiong
 07/01/2018
 
-##Overview
+## Overview
 
 The purpose of this project is to demonstrate my capability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. The project contains a R script called run_analysis.R that does the following.
 *1. Merges the training and the test sets to create one data set.
@@ -14,7 +14,7 @@ The purpose of this project is to demonstrate my capability to collect, work wit
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.*
 
-##Data Set
+## Data Set
 
 The data linked to represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -23,7 +23,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 The detailed information of the data set is included in the 'README.txt' file in the 'zip' file.
 
-##Files
+## Files
 
 The repository contains the following files.
 1. 'README.md'
@@ -31,7 +31,7 @@ The repository contains the following files.
 3. 'run_analysis.R' : the R script collect , work with and clean a data set.
 4. 'tidy.txt' : the tidy data set as the result of the project
 
-##Software Dependence
+## Software Dependence
 
 dplry package version 0.7.4 
 platform       x86_64-pc-linux-gnu
