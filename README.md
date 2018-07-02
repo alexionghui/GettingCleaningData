@@ -1,4 +1,4 @@
-#**Coursera Course project**
+#Coursera Course project
 ###**Getting and Cleaning Data**
 Hui Xiong
 07/01/2018
